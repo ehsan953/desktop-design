@@ -24,8 +24,7 @@ body {
   color: white;
   font-size: 3rem;
 }
-.navbar-collapse {
-}
+
 .navbar-nav {
   display: flex;
 }
@@ -98,10 +97,7 @@ body {
   align-items: center;
   justify-content: center;
 } */
-.box-item1 {
-}
-.box-item2 {
-}
+
 .body-icon {
   font-size: 20rem;
   color: rgb(102, 190, 227);
